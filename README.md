@@ -1,7 +1,7 @@
-# **Welcome to the CI&T QA's Challenge**
+# **Welcome to the QA's Challenge**
 Hey there! We are very proud to have you here!
 
-At first, congratulations to be elected for this challenge. It's important to mention that we have created this project to assess your level of comprehension in software testing and automation. Keep in mind that our evaluation goes beyond the 'working code'. We want to see how well you organize yourself, your code and your time.
+At first, congratulations to be selected for this challenge. It's important to mention that we have created this project to assess your level of comprehension in software testing and automation. Keep in mind that our evaluation goes beyond the 'working code'. We want to see how well you organize yourself, your code and your time.
 
 Important notes:
 
@@ -32,7 +32,8 @@ So good luck! We are looking forward to having you here with us!
 Any access issue, send to crizolli@ciandt.com.
 
 ### **Steps to send your solution**
-- When finished, create a pull request. Put the user **caiorzl** as the pull request reviewer.
+- When finished, upload the changes to a repository of your preference. 
+- Put the user **caiorzl** as the pull request reviewer.
 - Wait for our evaluation and contact.
 
 Breath, relax first and good work!
@@ -42,7 +43,7 @@ Breath, relax first and good work!
 ## Challenges
 
 ### **Manual Tests**
-On "manual_tests" folder, include one or more files with at least 2 test cases to check this page http://automationpractice.com/index.php.
+On "manual_tests" folder, include one or more files with at least 5 test cases to check this page http://automationpractice.com/index.php.
 
 Be free to use Gherkin or plain text.
 
